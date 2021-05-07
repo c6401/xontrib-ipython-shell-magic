@@ -17,7 +17,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     python_requires='>=3.6',
-    install_requires=['xonsh'],
+    install_requires=['xonsh', 'ipython==7.23.1'],
     packages=['xontrib'],
     package_dir={'xontrib': 'xontrib'},
     package_data={'xontrib': ['*.xsh']},
