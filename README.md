@@ -19,7 +19,7 @@ xpip install xontrib-ipython-shell-magic
 ## Usage
 
 ```bash
-xontrib load ism
+xontrib load ipysh
 # TODO: what's next?
 ```
 
